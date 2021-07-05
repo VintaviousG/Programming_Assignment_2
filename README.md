@@ -6,6 +6,9 @@ The primary objective of the project is to have the user get information about a
 ## Task 2
 There is another part to this assignment. We had to get the CSV file into an ArrayList and then convert it to an array. The user would be asked to type one of these numbers: Enter in 10, 50, 100, 200, 500, 700, or 1000. It would create an array of the size of the number the user entered. The program will select a random number between 1 and x(number the user enters), and then it will give the user the information on the car that's in that specific index. For example, if the user enters in 10, and the program randomly selects 5. The program would return the information about that car that's in index 5. 
 
+## Screenshot of Output
+![Output](https://github.com/VintaviousG/Programming_Assignment_2/blob/master/CarCSV_Output.png?raw=true)
+
 ## Technologies
 Java
 
