@@ -1,4 +1,4 @@
-# Programming_Assignment_2: CSV Car Dataset
+# CSV Car Dataset
 ## Story
 This is the 2nd programming assignment, for my data structures class. It was assigned to help understand linear and binary search. 
 ## What It Does
